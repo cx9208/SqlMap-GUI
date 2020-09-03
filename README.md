@@ -1,5 +1,6 @@
 # SqlMap-GUI
-A SqlMap GUI
+SqlMap-GUI
+====
 【配置】
 一般直接丢进sqlmap目录里使用即可
 如果没有设置python环境变量的话修改sqlmapgui.ini内PythonPath项，指定python.exe位置
