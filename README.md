@@ -1,5 +1,7 @@
 # SqlMap-GUI
 ![预览](https://github.com/cx9208/SqlMap-GUI/raw/master/pic/Snipaste_2020-09-03_11-14-17.png)<br>
+## 【注意】<br>
+程序是易语言写的，360跟Defender肯定报毒，不认识我的就不要用了233<br>
 ## 【配置】<br>
 一般直接丢进sqlmap目录里使用即可<br>
 如果没有设置python环境变量的话修改sqlmapgui.ini内PythonPath项，指定python.exe位置<br>
