@@ -14,7 +14,8 @@
 >"注入-指定库，表，列" 中，可以在sqlmap跑出的结果里复制，点击+号添加<br>
 >可以在一把梭上方编辑框添加自定义参数<br>
 >"绕过-tamper列表" 为自动读取sqlmap目录内脚本，点击脚本自动读取脚本内介绍<br>
-
+![预览](https://github.com/cx9208/SqlMap-GUI/raw/master/pic/Snipaste_2020-09-03_11-18-37.png)<br>
+<br>
 【更新日志】<br>
 -> V1.6 20200903<br>
 增加鼠标双击预览复制命令<br>
